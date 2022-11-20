@@ -1,0 +1,3 @@
+let num = 123;
+(num % 3 == 0) ? console.log("Even"):
+console.log("odd");
